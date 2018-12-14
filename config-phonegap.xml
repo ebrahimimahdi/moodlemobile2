@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.sepidarsystem.elearning"
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
@@ -12,7 +12,7 @@
         Moodle official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://moodle.ir" email="info@moodle.ir">
         Moodle Mobile team
     </author>
 
